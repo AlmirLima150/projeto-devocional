@@ -31,7 +31,7 @@ export function App() {
       </form>
       
       <div className="grid grid-cols-4 gap-3 auto-rows-[300px]">
-          
+          <CarDevocional/>
       </div>
 
     </div>
