@@ -31,7 +31,7 @@ export function App() {
       </form>
       
       <div className="grid grid-cols-4 gap-3 auto-rows-[300px]">
-          <CarDevocional date={new Date()} content="hello word"/>
+          
       </div>
 
     </div>
